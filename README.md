@@ -28,8 +28,9 @@ This dashboard was created to analyze user interaction stages with a product —
 - Selecting a funnel stage dynamically updates the transition time chart for the corresponding stage.
 
 *Tools Used*
-Tableau: For building interactive visualizations.
-CSV Data File: As the source for all metrics and visualizations.
+
+.Tableau: For building interactive visualizations.
+.CSV Data File: As the source for all metrics and visualizations.
 
 *Business Impact*
 This dashboard enables businesses to:
