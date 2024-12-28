@@ -38,5 +38,5 @@ This dashboard enables businesses to:
 - Make data-driven decisions to enhance retention and revenue growth.
 
 **Links**
-Tableau Public Dashboard: https://public.tableau.com/views/UserJourney_17353961120580/UserJourneyAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Data Source: csv file in git
+- Tableau Public Dashboard: https://public.tableau.com/views/UserJourney_17353961120580/UserJourneyAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Data Source: csv file in git
